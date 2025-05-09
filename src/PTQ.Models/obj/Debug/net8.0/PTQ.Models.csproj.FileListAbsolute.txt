@@ -9,3 +9,4 @@ C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Models\obj\Debug\net8.0\PTQ.Models.dll
 C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Models\obj\Debug\net8.0\refint\PTQ.Models.dll
 C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Models\obj\Debug\net8.0\PTQ.Models.pdb
 C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Models\obj\Debug\net8.0\ref\PTQ.Models.dll
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Models\obj\Debug\net8.0\PTQ.Models.sourcelink.json

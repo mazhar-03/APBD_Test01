@@ -9,3 +9,10 @@ C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\obj\Debug\net8.0\PTQ.Repo
 C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\obj\Debug\net8.0\refint\PTQ.Repositories.dll
 C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\obj\Debug\net8.0\PTQ.Repositories.pdb
 C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\obj\Debug\net8.0\ref\PTQ.Repositories.dll
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\obj\Debug\net8.0\PTQ.Repositories.sourcelink.json
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\bin\Debug\net8.0\PTQ.Application.dll
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\bin\Debug\net8.0\PTQ.Models.dll
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\bin\Debug\net8.0\PTQ.Application.pdb
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\bin\Debug\net8.0\PTQ.Models.pdb
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\obj\Debug\net8.0\PTQ.Repositories.csproj.AssemblyReference.cache
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\obj\Debug\net8.0\PTQ.Repo.A01C1EC0.Up2Date

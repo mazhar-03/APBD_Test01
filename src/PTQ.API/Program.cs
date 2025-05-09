@@ -1,3 +1,4 @@
+using PTQ.Application;
 using PTQ.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -51,6 +52,20 @@ app.MapGet("/api/quizzes/{id}", (int id, IQuizRepository quizRepository) =>
         return Results.BadRequest("Something went wrong");
     }
 });
+
+app.MapPost("/api/quizzes", (RequestBodyDto request, IQuizRepository quizRepository) =>
+{
+    try
+    {
+        quizRepository.CreateTest(request);
+        return Results.Ok("Quiz added.");
+    }
+    catch
+    {
+        return Results.BadRequest("Something went wrong");
+    }
+});
+
 
 
 app.Run();

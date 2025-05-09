@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PTQ.Repositories")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cae53be7247b84cf603dbb9cb22a2cbb718b8e21")]
 [assembly: System.Reflection.AssemblyProductAttribute("PTQ.Repositories")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PTQ.Repositories")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

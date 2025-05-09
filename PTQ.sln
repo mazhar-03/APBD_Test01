@@ -1,12 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTQ.API", "src\PTQ.API\PTQ.API.csproj", "{D19C035F-940C-4930-BC3C-D41EF4BDECF9}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTQ.Models", "src\PTQ.Models\PTQ.Models.csproj", "{AFF8C415-6E95-46C6-BDB5-E46F5AF2072E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTQ.Repositories", "src\PTQ.Repositories\PTQ.Repositories.csproj", "{535D0709-1F75-4022-B835-8E994898C513}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTQ.Application", "src\PTQ.Application\PTQ.Application.csproj", "{1D3AE395-9C07-448C-AF5A-F080261A57A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTQ.API", "src\PTQ.API\PTQ.API.csproj", "{30017002-89E7-4973-8A13-D19980687F29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,10 +14,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D19C035F-940C-4930-BC3C-D41EF4BDECF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D19C035F-940C-4930-BC3C-D41EF4BDECF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D19C035F-940C-4930-BC3C-D41EF4BDECF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D19C035F-940C-4930-BC3C-D41EF4BDECF9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AFF8C415-6E95-46C6-BDB5-E46F5AF2072E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AFF8C415-6E95-46C6-BDB5-E46F5AF2072E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFF8C415-6E95-46C6-BDB5-E46F5AF2072E}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -30,5 +26,9 @@ Global
 		{1D3AE395-9C07-448C-AF5A-F080261A57A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D3AE395-9C07-448C-AF5A-F080261A57A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D3AE395-9C07-448C-AF5A-F080261A57A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30017002-89E7-4973-8A13-D19980687F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30017002-89E7-4973-8A13-D19980687F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30017002-89E7-4973-8A13-D19980687F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30017002-89E7-4973-8A13-D19980687F29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
