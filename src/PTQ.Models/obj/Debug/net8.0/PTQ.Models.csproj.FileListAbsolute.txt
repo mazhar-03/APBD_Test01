@@ -1,0 +1,11 @@
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Models\bin\Debug\net8.0\PTQ.Models.deps.json
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Models\bin\Debug\net8.0\PTQ.Models.dll
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Models\bin\Debug\net8.0\PTQ.Models.pdb
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Models\obj\Debug\net8.0\PTQ.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Models\obj\Debug\net8.0\PTQ.Models.AssemblyInfoInputs.cache
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Models\obj\Debug\net8.0\PTQ.Models.AssemblyInfo.cs
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Models\obj\Debug\net8.0\PTQ.Models.csproj.CoreCompileInputs.cache
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Models\obj\Debug\net8.0\PTQ.Models.dll
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Models\obj\Debug\net8.0\refint\PTQ.Models.dll
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Models\obj\Debug\net8.0\PTQ.Models.pdb
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Models\obj\Debug\net8.0\ref\PTQ.Models.dll

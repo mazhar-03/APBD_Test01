@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PTQ.Repositories/1.0.0": {
+        "runtime": {
+          "PTQ.Repositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PTQ.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

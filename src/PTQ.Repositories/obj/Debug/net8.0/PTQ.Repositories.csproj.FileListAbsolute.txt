@@ -1,0 +1,11 @@
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\bin\Debug\net8.0\PTQ.Repositories.deps.json
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\bin\Debug\net8.0\PTQ.Repositories.dll
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\bin\Debug\net8.0\PTQ.Repositories.pdb
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\obj\Debug\net8.0\PTQ.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\obj\Debug\net8.0\PTQ.Repositories.AssemblyInfoInputs.cache
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\obj\Debug\net8.0\PTQ.Repositories.AssemblyInfo.cs
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\obj\Debug\net8.0\PTQ.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\obj\Debug\net8.0\PTQ.Repositories.dll
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\obj\Debug\net8.0\refint\PTQ.Repositories.dll
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\obj\Debug\net8.0\PTQ.Repositories.pdb
+C:\Users\s31162\RiderProjects\PTQ\src\PTQ.Repositories\obj\Debug\net8.0\ref\PTQ.Repositories.dll
